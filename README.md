@@ -6,7 +6,7 @@ A modern, fully functional Calculator application built entirely with **Kotlin**
 
 Light Mode / Dark Mode 
 <p align="center">
-  <img src="screenshots/calculator_light.png" width="250"/>
+  <img src="screenshots/calculator.png" width="250"/>
 </p>
 
 
